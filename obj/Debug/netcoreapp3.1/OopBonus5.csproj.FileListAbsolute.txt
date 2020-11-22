@@ -1,0 +1,13 @@
+C:\Users\goods\source\repos\OopBonus5\bin\Debug\netcoreapp3.1\OopBonus5.exe
+C:\Users\goods\source\repos\OopBonus5\bin\Debug\netcoreapp3.1\OopBonus5.deps.json
+C:\Users\goods\source\repos\OopBonus5\bin\Debug\netcoreapp3.1\OopBonus5.runtimeconfig.json
+C:\Users\goods\source\repos\OopBonus5\bin\Debug\netcoreapp3.1\OopBonus5.runtimeconfig.dev.json
+C:\Users\goods\source\repos\OopBonus5\bin\Debug\netcoreapp3.1\OopBonus5.dll
+C:\Users\goods\source\repos\OopBonus5\bin\Debug\netcoreapp3.1\OopBonus5.pdb
+C:\Users\goods\source\repos\OopBonus5\obj\Debug\netcoreapp3.1\OopBonus5.csprojAssemblyReference.cache
+C:\Users\goods\source\repos\OopBonus5\obj\Debug\netcoreapp3.1\OopBonus5.AssemblyInfoInputs.cache
+C:\Users\goods\source\repos\OopBonus5\obj\Debug\netcoreapp3.1\OopBonus5.AssemblyInfo.cs
+C:\Users\goods\source\repos\OopBonus5\obj\Debug\netcoreapp3.1\OopBonus5.csproj.CoreCompileInputs.cache
+C:\Users\goods\source\repos\OopBonus5\obj\Debug\netcoreapp3.1\OopBonus5.dll
+C:\Users\goods\source\repos\OopBonus5\obj\Debug\netcoreapp3.1\OopBonus5.pdb
+C:\Users\goods\source\repos\OopBonus5\obj\Debug\netcoreapp3.1\OopBonus5.genruntimeconfig.cache

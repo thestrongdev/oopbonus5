@@ -15,6 +15,11 @@ namespace OopBonus5
         {
             Student s = (Student)obj;
 
+            if(this.LastName == s.LastName)
+            {
+                return this.FirstName.CompareTo(s.FirstName);
+            }
+
             return String.Compare(this.LastName, s.LastName);
         }
     }
